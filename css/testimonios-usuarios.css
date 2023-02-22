@@ -1,0 +1,43 @@
+.card {
+    background-color: #6f42c1;
+}
+
+.col-12 col-lg-9 {
+    background-color: #6f42c1;
+}
+
+.img{
+    background-image: url(../imagenes-ejercicio-Cards/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 90% top;
+    
+    /*background-position: 23rem 1rem;*/
+}
+
+.card2{
+    background-color: rgb(73, 85, 107, 255);
+}
+
+.card3{
+    background-color: rgb(255, 255, 255);
+}
+
+.card4{
+    background-color: rgb(24, 32, 45, 225);
+}
+
+.card5{
+    background-color: rgb(255, 255, 255, 255);
+}
+
+.container{
+    background-color: rgb(237, 242, 248, 255);
+}
+
+.border-img{
+    border: solid #6f42c1;
+}
+
+.border2{
+    border: solid plum;
+}

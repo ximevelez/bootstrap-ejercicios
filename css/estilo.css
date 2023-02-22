@@ -1,0 +1,21 @@
+.img_logo{
+    width: 30px;
+    height: 24px;
+}
+
+.fondoColor{
+    background-color: rgb(219, 173, 173) !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+    color: gray !important;
+}
+
+.container-fluid{
+    background-image: url(../img/265993.jpg);
+    height: 100vh;
+}
